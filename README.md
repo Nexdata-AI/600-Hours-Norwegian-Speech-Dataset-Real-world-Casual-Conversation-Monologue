@@ -1,7 +1,5 @@
 # 600-Hours-Norwegian-Speech-Dataset-Real-world-Casual-Conversation-Monologue
 ---
-license: cc-by-nc-nd-4.0
----
 ## Description
 Norwegian Real-world Casual Conversation and Monologue speech dataset, covers self-media, conversation, live, variety show and other generic domains, mirrors real-world interactions. Transcribed with text content, speaker's ID, and other attributes. Our dataset was collected from extensive and diversify speakers, geographicly speaking, enhancing model performance in real and complex tasks.
 
